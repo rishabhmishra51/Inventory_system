@@ -1,0 +1,6 @@
+QWidget {
+    font-size: 14px;
+}
+QPushButton {
+    padding: 6px;
+}
